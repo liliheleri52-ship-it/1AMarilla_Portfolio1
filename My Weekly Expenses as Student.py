@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[45]:
 
 
 print('Ashley M. Marilla')
@@ -85,9 +81,6 @@ print("Weekly Expense: ₱", weekly)
 print("Daily Savings: ₱", savings)
 print("-"*35)
 
-
-
-# In[ ]:
 
 
 
